@@ -6,4 +6,4 @@ PyShell n'est pas un vrai Shell donc il ne peut pas être installé dans un Term
 ## A faire :
 * [ ] Un message lors de l'entrée dans le Shell
 * [ ] Pouvoir personnaliser le bash (Ex : "$ ~ ->)
-...
+Etc
